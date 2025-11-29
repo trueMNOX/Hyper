@@ -1,0 +1,14 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 30,
+  "modules-left": ["sway/workspaces"],
+  "modules-center": ["clock"],
+  "modules-right": ["cpu", "memory", "battery", "network"],
+  "clock": {
+    "format": "{:%Y-%m-%d %H:%M}"
+  },
+  "battery": {
+    "format": "{capacity}% {icon}"
+  }
+}
