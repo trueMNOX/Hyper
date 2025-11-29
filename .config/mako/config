@@ -1,0 +1,6 @@
+layer=overlay
+geometry=top-right
+margin=10
+spacing=10
+timeout=4000
+format="%a %s"
